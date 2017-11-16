@@ -21,3 +21,6 @@ The last line is a call to the function that does all the dirty work.
 
 To add more extensions to an existing rule, simply add them to the given `$RULES`.
 To add a new category, repeat this function call with different arguments.
+
+#### Screenshot
+![screenshot](https://raw.githubusercontent.com/AlexandreCassagne/cleandesk/master/screenshot.png)

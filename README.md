@@ -9,6 +9,12 @@ It has only been tested on macOS, but should function on most Unix-like systems.
 ## Usage:
 `cleandesk directory` or `cleandesk` (for current directory).
 
+### Installation
+The utility can be used as is, or moved somewhere on your computer, and then made easy to call by adding
+`alias cleandesk="sh ~/location/of/cleandesk.sh .`
+to `.bash_profile` for example.
+
+
 ### Adding extensions
 The following is an example of how a new category is created:
 ```
